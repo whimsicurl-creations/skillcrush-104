@@ -12673,3 +12673,49 @@ margin-top: 30px;
   margin: 50px 0 0 10px;
   font-size: 8px;
 }
+
+/***** Whimsicurl's Advice *****/
+.whimsicurl-advice {
+  background-color: #bbff99;
+  color: #003333;
+  padding: 25px;
+  margin: 25px;
+}
+.whimsicurl-advice a {
+  text-decoration: none;
+  font-family: 'Sigmar One', cursive;
+  font-size: 24px;
+  color: #006666;
+}
+.whimsicurl-advice h1 {
+  font-family: 'Chewy', cursive;
+  letter-spacing: 4px;
+  text-align: center;
+  text-decoration: underline;
+}
+.whimsicurl-advice h1 span {
+  text-transform: uppercase;
+  color: #006666;
+  }
+.whimsicurl-advice h4 {
+  font-family: 'Sigmar One';
+  font-size: 28px;
+  letter-spacing: 2px;
+  line-height: 10px;
+}
+.whimsicurl-advice h4 span {
+  color: #006666;
+  text-decoration: underline;
+}
+.whimsicurl-advice p {
+  font-family: 'Shadows Into Light Two';
+  font-size: 24px;
+  line-height: 24px;
+}
+.whimsicurl-advice p span {
+  font-family: 'Chewy';
+  text-decoration: underline;
+}
+.whimsicurl-advice footer p {
+  font-size: 18px;
+}
